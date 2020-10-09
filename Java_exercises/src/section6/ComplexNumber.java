@@ -1,4 +1,4 @@
-package oopExercises;
+package section6;
 
 public class ComplexNumber {
     private double real;

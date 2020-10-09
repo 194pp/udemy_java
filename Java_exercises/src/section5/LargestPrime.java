@@ -1,3 +1,5 @@
+package section5;
+
 public class LargestPrime {
     public static int getLargestPrime(int number) {
         if (number <= 1)

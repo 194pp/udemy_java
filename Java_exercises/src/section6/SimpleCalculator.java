@@ -1,4 +1,4 @@
-package oopExercises;
+package section6;
 
 public class SimpleCalculator {
     private double firstNumber;

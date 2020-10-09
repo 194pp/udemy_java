@@ -1,4 +1,4 @@
-package oopExercises.carpetCostCalculator;
+package section6.carpetCostCalculator;
 
 public class Carpet {
     private double cost;

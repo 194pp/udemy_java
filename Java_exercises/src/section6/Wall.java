@@ -1,4 +1,4 @@
-package oopExercises;
+package section6;
 
 public class Wall {
     private double width;

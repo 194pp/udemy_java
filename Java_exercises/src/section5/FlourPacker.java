@@ -1,3 +1,5 @@
+package section5;
+
 public class FlourPacker {
     /*
     bigCount - 5 kilo bags

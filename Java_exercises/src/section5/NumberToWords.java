@@ -1,3 +1,5 @@
+package section5;
+
 public class NumberToWords {
     public static void numberToWords(int number) {
         int digitCount = getDigitCount(number);
