@@ -1,6 +1,16 @@
+import oopExercises.SimpleCalculator;
+
 public class Main {
     public static void main(String[] args) {
         //    For testing purposes
-        System.out.println(PaintJob.getBucketCount(20,20,25,1));
+        SimpleCalculator calculator = new SimpleCalculator();
+        calculator.setFirstNumber(5.0);
+        calculator.setSecondNumber(4);
+        System.out.println("add= " + calculator.getAdditionResult());
+        System.out.println("subtract= " + calculator.getSubtractionResult());
+        calculator.setFirstNumber(5.25);
+        calculator.setSecondNumber(0);
+        System.out.println("multiply= " + calculator.getMultiplicationResult());
+        System.out.println("divide= " + calculator.getDivisionResult());
     }
 }
